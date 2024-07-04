@@ -1,0 +1,58 @@
+/*style*/
+body{
+	background-color: rgb(192, 192, 192);
+	color: white;
+}
+
+a{
+	color: #ffffff;
+}
+
+h1{
+	font-weight: black;
+	text-align: left;
+	margin-top: 20px;
+}
+
+h2{
+	text-align: center;
+	
+}
+
+form{
+	max-width: 400px;
+	height: auto;
+	margin: 10px auto;
+	padding: 10px;
+	border: 2px solid #ccc;
+	border-radius: 30px;
+	font-family: Arial, sans-serif;
+	font-style: italic;
+	font-weight: inherit;
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+}
+
+
+div{
+	align-items: center;
+	position: relative;
+	justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: rgb(128, 128, 128);
+	font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+	font-style: oblique;
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+h4{
+	text-align: center;
+	color: black;
+}
